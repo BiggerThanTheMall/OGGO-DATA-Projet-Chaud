@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         OGGO Data – Projet Chaud Auto
 // @namespace    https://github.com/BiggerThanTheMall/tampermonkey-ltoa
-// @version      1.1.0
+// @version      1.4
 // @description  Coche automatiquement le switch pour passer en Projet chaud sur la page des offres et ajoute clients@ltoa-assurances.fr en CC sur l'envoi de devis
 // @author       LTOA
 // @match        https://avenirprevoyanceetpatrimoine.oggo-data.net/admin/insurance/projects/*/offers*
